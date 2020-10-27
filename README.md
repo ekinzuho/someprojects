@@ -1,1 +1,1 @@
-# someprojects
+# Computer organization class projects
